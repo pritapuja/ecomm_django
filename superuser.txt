@@ -1,0 +1,3 @@
+user : admin
+pass : admintujuh
+email : admin_j7@gmail.com
